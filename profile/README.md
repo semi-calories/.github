@@ -5,12 +5,21 @@
 ### 💻  Projects
 > **개인 맞춤형 식단을 추천해주는 식단 관리 어플리케이션**
 
-* 사진과 텍스트로 식사 기록 및 조회
+* 텍스트와 사진으로 식사 기록 및 조회
 * 사용자의 선호와 이전 기록을 통한 개인 맞춤형 식단을 추천
 * 영양소 비율에 맞춰 식사하고 있는지 통계 제공
 * 몸무게 추적 및 예상 그래프 제공
 <br>
 
+
+<p>
+    <img src="https://github.com/semi-calories/.github/assets/58768930/438fb878-fc49-4234-a695-03dd6230d6a7" width="190" >
+    <img src="https://github.com/semi-calories/.github/assets/58768930/13863e65-6c84-4635-9921-2ec71a951a80" width="190">
+    <img src="https://github.com/semi-calories/.github/assets/58768930/2c210990-501f-4811-8d60-b3f2bf5fc37e" width="190">
+    <img src="https://github.com/semi-calories/.github/assets/58768930/6e86b656-88e3-4308-a0e1-7e9bf354b0d1" width="190">
+    <img src="https://github.com/semi-calories/.github/assets/58768930/fa173ae9-8dca-473a-91a7-e130490e2757" width="190">
+</p>
+<br>
 
 ### 📍 App
 * [Android](https://play.google.com/store/apps/details?id=com.shimhyesu.SemiCalories)
