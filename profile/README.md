@@ -13,11 +13,11 @@
 
 
 <p>
-    <img src="https://github.com/semi-calories/.github/assets/58768930/438fb878-fc49-4234-a695-03dd6230d6a7" width="190" >
-    <img src="https://github.com/semi-calories/.github/assets/58768930/13863e65-6c84-4635-9921-2ec71a951a80" width="190">
-    <img src="https://github.com/semi-calories/.github/assets/58768930/2c210990-501f-4811-8d60-b3f2bf5fc37e" width="190">
-    <img src="https://github.com/semi-calories/.github/assets/58768930/6e86b656-88e3-4308-a0e1-7e9bf354b0d1" width="190">
-    <img src="https://github.com/semi-calories/.github/assets/58768930/fa173ae9-8dca-473a-91a7-e130490e2757" width="190">
+    <img src="https://github.com/semi-calories/.github/assets/58768930/438fb878-fc49-4234-a695-03dd6230d6a7" width="155" >
+    <img src="https://github.com/semi-calories/.github/assets/58768930/13863e65-6c84-4635-9921-2ec71a951a80" width="155">
+    <img src="https://github.com/semi-calories/.github/assets/58768930/2c210990-501f-4811-8d60-b3f2bf5fc37e" width="155">
+    <img src="https://github.com/semi-calories/.github/assets/58768930/6e86b656-88e3-4308-a0e1-7e9bf354b0d1" width="155">
+    <img src="https://github.com/semi-calories/.github/assets/58768930/fa173ae9-8dca-473a-91a7-e130490e2757" width="155">
 </p>
 <br>
 
